@@ -1,0 +1,29 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  text-align:center;
+}
+
+#main{
+  height: 50vh;
+  background-image: url('https://i.ibb.co/C2rq35J/nyc-cover.jpg');
+  background-position:cover;
+}
+
+h1{
+  text-align:center;
+}
+
+h2{
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 5px;
+  border: 5px solid white;
+  height: 10vh;
+}
+
+h3{
+  border: 3px solid black;
+  padding:10px;
+}
